@@ -5,8 +5,8 @@
 
 - Developer.GOLF
 - meengi07
-- member2
-- member3
+- gittestsite1
+- 0-chan
 - member4
 - member5
 - member6
