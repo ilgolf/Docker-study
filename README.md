@@ -8,8 +8,8 @@
 - gittestsite1
 - 0-chan
 - adminhelper
-- member5
-- member6
+- DongGeun974
+- cohic91
 
 ### 01: 도커란?
 
