@@ -6,8 +6,6 @@
 - Developer.GOLF
 - meengi07
 - gittestsite1
-- 0-chan
-- adminhelper
 - DongGeun974
 - cohic91
 
